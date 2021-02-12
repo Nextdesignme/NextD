@@ -1,2 +1,2 @@
-# NextD
+# nextd
 official website nd
